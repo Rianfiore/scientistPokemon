@@ -1,0 +1,1265 @@
+{
+    "accuracy": null,
+    "contest_combos": {
+        "normal": {
+            "use_after": [
+                {
+                    "name": "double-team",
+                    "url": "/api/v2/move/104/"
+                }
+            ],
+            "use_before": null
+        },
+        "super": {
+            "use_after": null,
+            "use_before": null
+        }
+    },
+    "contest_effect": {
+        "url": "/api/v2/contest-effect/30/"
+    },
+    "contest_type": {
+        "name": "cool",
+        "url": "/api/v2/contest-type/1/"
+    },
+    "damage_class": {
+        "name": "status",
+        "url": "/api/v2/move-damage-class/1/"
+    },
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+        {
+            "effect": "Raises the user's Speed by two stages.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "short_effect": "Raises the user's Speed by two stages."
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "Sharply increases\nthe user's SPEED.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "gold-silver",
+                "url": "/api/v2/version-group/3/"
+            }
+        },
+        {
+            "flavor_text": "Sharply increases\nthe user's SPEED.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "crystal",
+                "url": "/api/v2/version-group/4/"
+            }
+        },
+        {
+            "flavor_text": "Relaxes the body to sharply\nboost SPEED.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "ruby-sapphire",
+                "url": "/api/v2/version-group/5/"
+            }
+        },
+        {
+            "flavor_text": "Relaxes the body to sharply\nboost SPEED.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "emerald",
+                "url": "/api/v2/version-group/6/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes\nand lightens its\nbody to sharply\nboost its SPEED.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "firered-leafgreen",
+                "url": "/api/v2/version-group/7/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "diamond-pearl",
+                "url": "/api/v2/version-group/8/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "platinum",
+                "url": "/api/v2/version-group/9/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "heartgold-soulsilver",
+                "url": "/api/v2/version-group/10/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se relaxe et all\u00e8ge son corps\npour augmenter consid\u00e9rablement\nsa Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "/api/v2/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to\nmove faster. It sharply boosts\nthe Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "black-white",
+                "url": "/api/v2/version-group/11/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to\nmove faster. It sharply boosts\nthe Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "black-2-white-2",
+                "url": "/api/v2/version-group/14/"
+            }
+        },
+        {
+            "flavor_text": "\u3061\u304b\u3089\u3092\u3000\u306c\u3044\u3066\u3000\u304b\u3089\u3060\u3092\u3000\u304b\u308b\u304f\u3057\u3066\n\u3053\u3046\u305d\u304f\u3067\u3000\u3046\u3054\u304f\u3002\n\u3058\u3076\u3093\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\ud798\uc744 \ube7c\uace0 \ubab8\uc744 \uac00\ubccd\uac8c \ud574\uc11c\n\uace0\uc18d\uc73c\ub85c \uc6c0\uc9c1\uc778\ub2e4.\n\uc790\uc2e0\uc758 \uc2a4\ud53c\ub4dc\ub97c \ud06c\uac8c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se relaxe et all\u00e8ge son corps pour\naugmenter consid\u00e9rablement sa Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Entspannt den K\u00f6rper, um den Initiative-Wert\nstark zu steigern.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Relaja el cuerpo para ganar mucha Velocidad.",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa rilassa e alleggerisce il proprio corpo\nper far salire di molto la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to\nmove faster. This sharply raises the Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u529b\u3092\u3000\u306c\u3044\u3066\u3000\u4f53\u3092\u3000\u8efd\u304f\u3057\u3066\n\u9ad8\u901f\u3067\u3000\u52d5\u304f\u3002\n\u81ea\u5206\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "x-y",
+                "url": "/api/v2/version-group/15/"
+            }
+        },
+        {
+            "flavor_text": "\u3061\u304b\u3089\u3092\u3000\u306c\u3044\u3066\u3000\u304b\u3089\u3060\u3092\u3000\u304b\u308b\u304f\u3057\u3066\n\u3053\u3046\u305d\u304f\u3067\u3000\u3046\u3054\u304f\u3002\n\u3058\u3076\u3093\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\ud798\uc744 \ube7c\uace0 \ubab8\uc744 \uac00\ubccd\uac8c \ud574\uc11c\n\uace0\uc18d\uc73c\ub85c \uc6c0\uc9c1\uc778\ub2e4.\n\uc790\uc2e0\uc758 \uc2a4\ud53c\ub4dc\ub97c \ud06c\uac8c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se relaxe et all\u00e8ge son corps pour\naugmenter consid\u00e9rablement sa Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Entspannt den K\u00f6rper, um den Initiative-Wert\nstark zu steigern.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Relaja el cuerpo para ganar mucha Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa rilassa e alleggerisce il proprio corpo\nper far salire di molto la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to\nmove faster. This sharply raises the Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u529b\u3092\u3000\u306c\u3044\u3066\u3000\u4f53\u3092\u3000\u8efd\u304f\u3057\u3066\n\u9ad8\u901f\u3067\u3000\u52d5\u304f\u3002\n\u81ea\u5206\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "omega-ruby-alpha-sapphire",
+                "url": "/api/v2/version-group/16/"
+            }
+        },
+        {
+            "flavor_text": "\u3061\u304b\u3089\u3092\u3000\u306c\u3044\u3066\u3000\u304b\u3089\u3060\u3092\u3000\u304b\u308b\u304f\u3057\u3066\n\u3053\u3046\u305d\u304f\u3067\u3000\u3046\u3054\u304f\u3002\n\u3058\u3076\u3093\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\ud798\uc744 \ube7c\uace0 \ubab8\uc744 \uac00\ubccd\uac8c \ud574\uc11c\n\uace0\uc18d\uc73c\ub85c \uc6c0\uc9c1\uc778\ub2e4.\n\uc790\uc2e0\uc758 \uc2a4\ud53c\ub4dc\ub97c \ud06c\uac8c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u653e\u9b06\u8eab\u9ad4\uff0c\n\u8b93\u81ea\u5df1\u8b8a\u5f97\u8f15\u76c8\u4ee5\u9032\u884c\u9ad8\u901f\u79fb\u52d5\u3002\n\u53ef\u5927\u5e45\u63d0\u9ad8\u81ea\u5df1\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se relaxe et all\u00e8ge son corps pour\nbeaucoup augmenter sa Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Entspannt den K\u00f6rper, um den Initiative-Wert stark\nzu erh\u00f6hen.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Relaja el cuerpo para ganar mucha Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa rilassa e alleggerisce il proprio corpo\nper far salire di molto la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to move\nfaster. This sharply raises the Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u529b\u3092\u3000\u306c\u3044\u3066\u3000\u4f53\u3092\u3000\u8efd\u304f\u3057\u3066\n\u9ad8\u901f\u3067\u3000\u52d5\u304f\u3002\n\u81ea\u5206\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u8eab\u4f53\u653e\u677e\u53d8\u5f97\u8f7b\u76c8\uff0c\n\u4ee5\u4fbf\u9ad8\u901f\u79fb\u52a8\u3002\n\u5927\u5e45\u63d0\u9ad8\u81ea\u5df1\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "sun-moon",
+                "url": "/api/v2/version-group/17/"
+            }
+        },
+        {
+            "flavor_text": "\u3061\u304b\u3089\u3092\u3000\u306c\u3044\u3066\u3000\u304b\u3089\u3060\u3092\u3000\u304b\u308b\u304f\u3057\u3066\n\u3053\u3046\u305d\u304f\u3067\u3000\u3046\u3054\u304f\u3002\n\u3058\u3076\u3093\u306e\u3000\u3059\u3070\u3084\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\ud798\uc744 \ube7c\uace0 \ubab8\uc744 \uac00\ubccd\uac8c \ud574\uc11c\n\uace0\uc18d\uc73c\ub85c \uc6c0\uc9c1\uc778\ub2e4.\n\uc790\uc2e0\uc758 \uc2a4\ud53c\ub4dc\ub97c \ud06c\uac8c \uc62c\ub9b0\ub2e4.",
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u653e\u9b06\u8eab\u9ad4\uff0c\n\u8b93\u81ea\u5df1\u8b8a\u5f97\u8f15\u76c8\u4ee5\u9032\u884c\u9ad8\u901f\u79fb\u52d5\u3002\n\u53ef\u5927\u5e45\u63d0\u9ad8\u81ea\u5df1\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Le lanceur se relaxe et all\u00e8ge son corps pour\nbeaucoup augmenter sa Vitesse.",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Entspannt den K\u00f6rper, um den Initiative-Wert stark\nzu erh\u00f6hen.",
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Relaja el cuerpo para ganar mucha Velocidad. ",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "Chi la usa rilassa e alleggerisce il proprio corpo\nper far salire di molto la Velocit\u00e0.",
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "The user relaxes and lightens its body to move\nfaster. This sharply raises the Speed stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u529b\u3092\u3000\u306c\u3044\u3066\u3000\u4f53\u3092\u3000\u8efd\u304f\u3057\u3066\n\u9ad8\u901f\u3067\u3000\u52d5\u304f\u3002\n\u81ea\u5206\u306e\u3000\u7d20\u65e9\u3055\u3092\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u3052\u308b\u3002",
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        },
+        {
+            "flavor_text": "\u8ba9\u8eab\u4f53\u653e\u677e\u53d8\u5f97\u8f7b\u76c8\uff0c\n\u4ee5\u4fbf\u9ad8\u901f\u79fb\u52a8\u3002\n\u5927\u5e45\u63d0\u9ad8\u81ea\u5df1\u7684\u901f\u5ea6\u3002",
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "version_group": {
+                "name": "ultra-sun-ultra-moon",
+                "url": "/api/v2/version-group/18/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-i",
+        "url": "/api/v2/generation/1/"
+    },
+    "id": 97,
+    "learned_by_pokemon": [
+        {
+            "name": "beedrill",
+            "url": "/api/v2/pokemon/15/"
+        },
+        {
+            "name": "pidgey",
+            "url": "/api/v2/pokemon/16/"
+        },
+        {
+            "name": "pidgeotto",
+            "url": "/api/v2/pokemon/17/"
+        },
+        {
+            "name": "pidgeot",
+            "url": "/api/v2/pokemon/18/"
+        },
+        {
+            "name": "spearow",
+            "url": "/api/v2/pokemon/21/"
+        },
+        {
+            "name": "fearow",
+            "url": "/api/v2/pokemon/22/"
+        },
+        {
+            "name": "pikachu",
+            "url": "/api/v2/pokemon/25/"
+        },
+        {
+            "name": "paras",
+            "url": "/api/v2/pokemon/46/"
+        },
+        {
+            "name": "venonat",
+            "url": "/api/v2/pokemon/48/"
+        },
+        {
+            "name": "growlithe",
+            "url": "/api/v2/pokemon/58/"
+        },
+        {
+            "name": "ponyta",
+            "url": "/api/v2/pokemon/77/"
+        },
+        {
+            "name": "rapidash",
+            "url": "/api/v2/pokemon/78/"
+        },
+        {
+            "name": "farfetchd",
+            "url": "/api/v2/pokemon/83/"
+        },
+        {
+            "name": "doduo",
+            "url": "/api/v2/pokemon/84/"
+        },
+        {
+            "name": "dodrio",
+            "url": "/api/v2/pokemon/85/"
+        },
+        {
+            "name": "krabby",
+            "url": "/api/v2/pokemon/98/"
+        },
+        {
+            "name": "hitmonchan",
+            "url": "/api/v2/pokemon/107/"
+        },
+        {
+            "name": "horsea",
+            "url": "/api/v2/pokemon/116/"
+        },
+        {
+            "name": "seadra",
+            "url": "/api/v2/pokemon/117/"
+        },
+        {
+            "name": "goldeen",
+            "url": "/api/v2/pokemon/118/"
+        },
+        {
+            "name": "seaking",
+            "url": "/api/v2/pokemon/119/"
+        },
+        {
+            "name": "scyther",
+            "url": "/api/v2/pokemon/123/"
+        },
+        {
+            "name": "jolteon",
+            "url": "/api/v2/pokemon/135/"
+        },
+        {
+            "name": "porygon",
+            "url": "/api/v2/pokemon/137/"
+        },
+        {
+            "name": "aerodactyl",
+            "url": "/api/v2/pokemon/142/"
+        },
+        {
+            "name": "articuno",
+            "url": "/api/v2/pokemon/144/"
+        },
+        {
+            "name": "zapdos",
+            "url": "/api/v2/pokemon/145/"
+        },
+        {
+            "name": "moltres",
+            "url": "/api/v2/pokemon/146/"
+        },
+        {
+            "name": "dratini",
+            "url": "/api/v2/pokemon/147/"
+        },
+        {
+            "name": "dragonair",
+            "url": "/api/v2/pokemon/148/"
+        },
+        {
+            "name": "dragonite",
+            "url": "/api/v2/pokemon/149/"
+        },
+        {
+            "name": "feraligatr",
+            "url": "/api/v2/pokemon/160/"
+        },
+        {
+            "name": "furret",
+            "url": "/api/v2/pokemon/162/"
+        },
+        {
+            "name": "hoothoot",
+            "url": "/api/v2/pokemon/163/"
+        },
+        {
+            "name": "ledyba",
+            "url": "/api/v2/pokemon/165/"
+        },
+        {
+            "name": "ledian",
+            "url": "/api/v2/pokemon/166/"
+        },
+        {
+            "name": "spinarak",
+            "url": "/api/v2/pokemon/167/"
+        },
+        {
+            "name": "ariados",
+            "url": "/api/v2/pokemon/168/"
+        },
+        {
+            "name": "chinchou",
+            "url": "/api/v2/pokemon/170/"
+        },
+        {
+            "name": "mareep",
+            "url": "/api/v2/pokemon/179/"
+        },
+        {
+            "name": "aipom",
+            "url": "/api/v2/pokemon/190/"
+        },
+        {
+            "name": "girafarig",
+            "url": "/api/v2/pokemon/203/"
+        },
+        {
+            "name": "dunsparce",
+            "url": "/api/v2/pokemon/206/"
+        },
+        {
+            "name": "gligar",
+            "url": "/api/v2/pokemon/207/"
+        },
+        {
+            "name": "scizor",
+            "url": "/api/v2/pokemon/212/"
+        },
+        {
+            "name": "sneasel",
+            "url": "/api/v2/pokemon/215/"
+        },
+        {
+            "name": "mantine",
+            "url": "/api/v2/pokemon/226/"
+        },
+        {
+            "name": "skarmory",
+            "url": "/api/v2/pokemon/227/"
+        },
+        {
+            "name": "kingdra",
+            "url": "/api/v2/pokemon/230/"
+        },
+        {
+            "name": "porygon2",
+            "url": "/api/v2/pokemon/233/"
+        },
+        {
+            "name": "hitmontop",
+            "url": "/api/v2/pokemon/237/"
+        },
+        {
+            "name": "treecko",
+            "url": "/api/v2/pokemon/252/"
+        },
+        {
+            "name": "grovyle",
+            "url": "/api/v2/pokemon/253/"
+        },
+        {
+            "name": "sceptile",
+            "url": "/api/v2/pokemon/254/"
+        },
+        {
+            "name": "torchic",
+            "url": "/api/v2/pokemon/255/"
+        },
+        {
+            "name": "taillow",
+            "url": "/api/v2/pokemon/276/"
+        },
+        {
+            "name": "swellow",
+            "url": "/api/v2/pokemon/277/"
+        },
+        {
+            "name": "wingull",
+            "url": "/api/v2/pokemon/278/"
+        },
+        {
+            "name": "surskit",
+            "url": "/api/v2/pokemon/283/"
+        },
+        {
+            "name": "ninjask",
+            "url": "/api/v2/pokemon/291/"
+        },
+        {
+            "name": "plusle",
+            "url": "/api/v2/pokemon/311/"
+        },
+        {
+            "name": "minun",
+            "url": "/api/v2/pokemon/312/"
+        },
+        {
+            "name": "carvanha",
+            "url": "/api/v2/pokemon/318/"
+        },
+        {
+            "name": "sharpedo",
+            "url": "/api/v2/pokemon/319/"
+        },
+        {
+            "name": "swablu",
+            "url": "/api/v2/pokemon/333/"
+        },
+        {
+            "name": "gorebyss",
+            "url": "/api/v2/pokemon/368/"
+        },
+        {
+            "name": "luvdisc",
+            "url": "/api/v2/pokemon/370/"
+        },
+        {
+            "name": "metang",
+            "url": "/api/v2/pokemon/375/"
+        },
+        {
+            "name": "metagross",
+            "url": "/api/v2/pokemon/376/"
+        },
+        {
+            "name": "piplup",
+            "url": "/api/v2/pokemon/393/"
+        },
+        {
+            "name": "starly",
+            "url": "/api/v2/pokemon/396/"
+        },
+        {
+            "name": "staravia",
+            "url": "/api/v2/pokemon/397/"
+        },
+        {
+            "name": "staraptor",
+            "url": "/api/v2/pokemon/398/"
+        },
+        {
+            "name": "buizel",
+            "url": "/api/v2/pokemon/418/"
+        },
+        {
+            "name": "floatzel",
+            "url": "/api/v2/pokemon/419/"
+        },
+        {
+            "name": "ambipom",
+            "url": "/api/v2/pokemon/424/"
+        },
+        {
+            "name": "buneary",
+            "url": "/api/v2/pokemon/427/"
+        },
+        {
+            "name": "lopunny",
+            "url": "/api/v2/pokemon/428/"
+        },
+        {
+            "name": "chatot",
+            "url": "/api/v2/pokemon/441/"
+        },
+        {
+            "name": "riolu",
+            "url": "/api/v2/pokemon/447/"
+        },
+        {
+            "name": "skorupi",
+            "url": "/api/v2/pokemon/451/"
+        },
+        {
+            "name": "finneon",
+            "url": "/api/v2/pokemon/456/"
+        },
+        {
+            "name": "mantyke",
+            "url": "/api/v2/pokemon/458/"
+        },
+        {
+            "name": "porygon-z",
+            "url": "/api/v2/pokemon/474/"
+        },
+        {
+            "name": "blitzle",
+            "url": "/api/v2/pokemon/522/"
+        },
+        {
+            "name": "zebstrika",
+            "url": "/api/v2/pokemon/523/"
+        },
+        {
+            "name": "sewaddle",
+            "url": "/api/v2/pokemon/540/"
+        },
+        {
+            "name": "venipede",
+            "url": "/api/v2/pokemon/543/"
+        },
+        {
+            "name": "whirlipede",
+            "url": "/api/v2/pokemon/544/"
+        },
+        {
+            "name": "scolipede",
+            "url": "/api/v2/pokemon/545/"
+        },
+        {
+            "name": "basculin-red-striped",
+            "url": "/api/v2/pokemon/550/"
+        },
+        {
+            "name": "archen",
+            "url": "/api/v2/pokemon/566/"
+        },
+        {
+            "name": "archeops",
+            "url": "/api/v2/pokemon/567/"
+        },
+        {
+            "name": "zorua",
+            "url": "/api/v2/pokemon/570/"
+        },
+        {
+            "name": "zoroark",
+            "url": "/api/v2/pokemon/571/"
+        },
+        {
+            "name": "deerling",
+            "url": "/api/v2/pokemon/585/"
+        },
+        {
+            "name": "emolga",
+            "url": "/api/v2/pokemon/587/"
+        },
+        {
+            "name": "joltik",
+            "url": "/api/v2/pokemon/595/"
+        },
+        {
+            "name": "galvantula",
+            "url": "/api/v2/pokemon/596/"
+        },
+        {
+            "name": "accelgor",
+            "url": "/api/v2/pokemon/617/"
+        },
+        {
+            "name": "durant",
+            "url": "/api/v2/pokemon/632/"
+        },
+        {
+            "name": "tornadus-incarnate",
+            "url": "/api/v2/pokemon/641/"
+        },
+        {
+            "name": "thundurus-incarnate",
+            "url": "/api/v2/pokemon/642/"
+        },
+        {
+            "name": "bunnelby",
+            "url": "/api/v2/pokemon/659/"
+        },
+        {
+            "name": "diggersby",
+            "url": "/api/v2/pokemon/660/"
+        },
+        {
+            "name": "fletchling",
+            "url": "/api/v2/pokemon/661/"
+        },
+        {
+            "name": "fletchinder",
+            "url": "/api/v2/pokemon/662/"
+        },
+        {
+            "name": "talonflame",
+            "url": "/api/v2/pokemon/663/"
+        },
+        {
+            "name": "helioptile",
+            "url": "/api/v2/pokemon/694/"
+        },
+        {
+            "name": "hawlucha",
+            "url": "/api/v2/pokemon/701/"
+        },
+        {
+            "name": "noibat",
+            "url": "/api/v2/pokemon/714/"
+        },
+        {
+            "name": "noivern",
+            "url": "/api/v2/pokemon/715/"
+        },
+        {
+            "name": "vikavolt",
+            "url": "/api/v2/pokemon/738/"
+        },
+        {
+            "name": "oricorio-baile",
+            "url": "/api/v2/pokemon/741/"
+        },
+        {
+            "name": "tapu-koko",
+            "url": "/api/v2/pokemon/785/"
+        },
+        {
+            "name": "pheromosa",
+            "url": "/api/v2/pokemon/795/"
+        },
+        {
+            "name": "deoxys-speed",
+            "url": "/api/v2/pokemon/10003/"
+        },
+        {
+            "name": "basculin-blue-striped",
+            "url": "/api/v2/pokemon/10016/"
+        },
+        {
+            "name": "tornadus-therian",
+            "url": "/api/v2/pokemon/10019/"
+        },
+        {
+            "name": "thundurus-therian",
+            "url": "/api/v2/pokemon/10020/"
+        },
+        {
+            "name": "aerodactyl-mega",
+            "url": "/api/v2/pokemon/10042/"
+        },
+        {
+            "name": "scizor-mega",
+            "url": "/api/v2/pokemon/10046/"
+        },
+        {
+            "name": "sceptile-mega",
+            "url": "/api/v2/pokemon/10065/"
+        },
+        {
+            "name": "sharpedo-mega",
+            "url": "/api/v2/pokemon/10070/"
+        },
+        {
+            "name": "pidgeot-mega",
+            "url": "/api/v2/pokemon/10073/"
+        },
+        {
+            "name": "metagross-mega",
+            "url": "/api/v2/pokemon/10076/"
+        },
+        {
+            "name": "pikachu-rock-star",
+            "url": "/api/v2/pokemon/10080/"
+        },
+        {
+            "name": "pikachu-belle",
+            "url": "/api/v2/pokemon/10081/"
+        },
+        {
+            "name": "pikachu-pop-star",
+            "url": "/api/v2/pokemon/10082/"
+        },
+        {
+            "name": "pikachu-phd",
+            "url": "/api/v2/pokemon/10083/"
+        },
+        {
+            "name": "pikachu-libre",
+            "url": "/api/v2/pokemon/10084/"
+        },
+        {
+            "name": "pikachu-cosplay",
+            "url": "/api/v2/pokemon/10085/"
+        },
+        {
+            "name": "lopunny-mega",
+            "url": "/api/v2/pokemon/10088/"
+        },
+        {
+            "name": "beedrill-mega",
+            "url": "/api/v2/pokemon/10090/"
+        },
+        {
+            "name": "pikachu-original-cap",
+            "url": "/api/v2/pokemon/10094/"
+        },
+        {
+            "name": "pikachu-hoenn-cap",
+            "url": "/api/v2/pokemon/10095/"
+        },
+        {
+            "name": "pikachu-sinnoh-cap",
+            "url": "/api/v2/pokemon/10096/"
+        },
+        {
+            "name": "pikachu-unova-cap",
+            "url": "/api/v2/pokemon/10097/"
+        },
+        {
+            "name": "pikachu-kalos-cap",
+            "url": "/api/v2/pokemon/10098/"
+        },
+        {
+            "name": "pikachu-alola-cap",
+            "url": "/api/v2/pokemon/10099/"
+        },
+        {
+            "name": "vikavolt-totem",
+            "url": "/api/v2/pokemon/10122/"
+        },
+        {
+            "name": "oricorio-pom-pom",
+            "url": "/api/v2/pokemon/10123/"
+        },
+        {
+            "name": "oricorio-pau",
+            "url": "/api/v2/pokemon/10124/"
+        },
+        {
+            "name": "oricorio-sensu",
+            "url": "/api/v2/pokemon/10125/"
+        },
+        {
+            "name": "pikachu-partner-cap",
+            "url": "/api/v2/pokemon/10148/"
+        }
+    ],
+    "machines": [],
+    "meta": {
+        "ailment": {
+            "name": "none",
+            "url": "/api/v2/move-ailment/0/"
+        },
+        "ailment_chance": 0,
+        "category": {
+            "name": "net-good-stats",
+            "url": "/api/v2/move-category/2/"
+        },
+        "crit_rate": 0,
+        "drain": 0,
+        "flinch_chance": 0,
+        "healing": 0,
+        "max_hits": null,
+        "max_turns": null,
+        "min_hits": null,
+        "min_turns": null,
+        "stat_chance": 0
+    },
+    "name": "agility",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "name": "\u3053\u3046\u305d\u304f\u3044\u3069\u3046"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "name": "\uace0\uc18d\uc774\ub3d9"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "name": "\u9ad8\u901f\u79fb\u52d5"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "H\u00e2te"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "name": "Agilit\u00e4t"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "name": "Agilidad"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "name": "Agilit\u00e0"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Agility"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "name": "\u3053\u3046\u305d\u304f\u3044\u3069\u3046"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "name": "\u9ad8\u901f\u79fb\u52a8"
+        }
+    ],
+    "past_values": [],
+    "power": null,
+    "pp": 30,
+    "priority": 0,
+    "stat_changes": [
+        {
+            "change": 2,
+            "stat": {
+                "name": "speed",
+                "url": "/api/v2/stat/6/"
+            }
+        }
+    ],
+    "super_contest_effect": {
+        "url": "/api/v2/super-contest-effect/1/"
+    },
+    "target": {
+        "name": "user",
+        "url": "/api/v2/move-target/7/"
+    },
+    "type": {
+        "name": "psychic",
+        "url": "/api/v2/type/14/"
+    }
+}

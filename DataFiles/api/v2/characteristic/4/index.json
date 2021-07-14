@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        {
+            "description": "Extr\u00eamement curieux",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            }
+        },
+        {
+            "description": "Es extremadamente curioso",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            }
+        },
+        {
+            "description": "Highly curious",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            }
+        }
+    ],
+    "gene_modulo": 0,
+    "highest_stat": {
+        "name": "special-attack",
+        "url": "/api/v2/stat/4/"
+    },
+    "id": 4,
+    "possible_values": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+    ]
+}

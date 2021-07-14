@@ -1,0 +1,52 @@
+Nome: Cidade de Pallet
+
+Descrição da Cidade:
+
+- Cercada por floresta;
+- Algumas árvores internamente;
+- Cidade recém fundada, poucas construções;
+
+
+Locais:
+
+- Casa do Jogador;
+- Laboratório do Jogador;
+- Saída ao Norte (Terrestre) para Cidade de Viridiana;
+- Saída ao Sul (Mar da Rota 21) para Ilha Cinnabar;
+
+Métodos de Encontro com Pokemon:
+
+- Avistamento aéreo;
+- Encontro terrestre;
+- Encontro nas árvores;
+- Avistamento na floresta;
+- Pesca;
+- Mergulho;
+
+Pokemons:
+
+Como Funciona o encounter rate?
+
+- A região onde ocorrerá o encounter rate poderá encontrar todos os pokemons de até 2 regiões de distância do local atual;
+- Obviamente a cada região de distância, o encounter rate é menor;
+- Isso é aplicado a todos os métodos de encontro;
+
+Distribuição de pontos:
+
+Como funciona?
+Estime um percentual de chance de spawn, depois faça o seguinte cálculo:
+
+1- Some todas as estimativas;
+2- Pegue o valor estimado de cada pokemon;
+3- multiplique o valor por 100 e divida pelo somatório;
+4- o resultado é a porcentagem real do pokemon;
+
+Métodos de encontro:
+
+Avistamento aéreo: Pidgey, Pidgeotto, Pidgeot, Hoothoot, Ledyba
+Encontro terrestre: Bulbassauro, Charmander, Pikachu, Rattata, Raticate, Sentret, Furret, Poochyena, Plusle, Minun, Shinx, Pidgey, Pidgeotto, Pidgeot, Hoothoot, Ledyba
+Encontro nas árvores: Sentret, Furret, Pidgey, Hoothoot, Ledyba, Wurmple, Spinarak, Pineco
+Avistamento na floresta: Bulbassauro, Charmander, Pikachu, Rattata, Raticate, Sentret, Furret, Poochyne, Plusle, Minun, Shinx, Pidgey, Pidgeotto, Pidgeot, Hoothoot, Ledyba, Wurmple, Spinarak, Pineco
+Avistamento na costa: Krabby, Kingler, Psyduck, Slowpoke, Poliwag
+Pesca: Magikarp, Goldeen, Krabby, Kingler, Tentacool, Staryu, Tentacruel, Shellder, Chinchou, Lantum
+Mergulho: Gyarados, Magikarp, Goldeen, Krabby, Kingler, Tentacool, Tentacruel, Shellder, Chinchou, Lantum, Horsea, Seadra, Staryu

@@ -1,0 +1,106 @@
+{
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "When hit by a move that makes direct contact, the Pok\u00e9mon and the attacker will faint after three turns unless they switch out of battle.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-viii",
+        "url": "/api/v2/generation/8/"
+    },
+    "id": 253,
+    "is_main_series": true,
+    "name": "perish-body",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "name": "\u307b\u308d\u3073\u306e\u30dc\u30c7\u30a3"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "name": "\uba78\ub9dd\uc758\ubc14\ub514"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "name": "\u6ec5\u4ea1\u4e4b\u8ec0"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "Corps Condamn\u00e9"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "name": "Unheilsk\u00f6rper"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "name": "Cuerpo Mortal"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "name": "Ultimotocco"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Perish Body"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "name": "\u307b\u308d\u3073\u306e\u30dc\u30c7\u30a3"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "name": "\u706d\u4ea1\u4e4b\u8eaf"
+        }
+    ],
+    "pokemon": [
+        {
+            "is_hidden": true,
+            "pokemon": {
+                "name": "cursola",
+                "url": "/api/v2/pokemon/864/"
+            },
+            "slot": 3
+        }
+    ]
+}

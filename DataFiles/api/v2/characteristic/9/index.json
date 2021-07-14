@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        {
+            "description": "Sait encaisser les coups",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            }
+        },
+        {
+            "description": "Es un buen fajador",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            }
+        },
+        {
+            "description": "Capable of taking hits",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            }
+        }
+    ],
+    "gene_modulo": 1,
+    "highest_stat": {
+        "name": "defense",
+        "url": "/api/v2/stat/3/"
+    },
+    "id": 9,
+    "possible_values": [
+        1,
+        6,
+        11,
+        16,
+        21,
+        26
+    ]
+}

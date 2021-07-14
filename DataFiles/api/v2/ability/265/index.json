@@ -1,0 +1,106 @@
+{
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "When the Pok\u00e9mon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-viii",
+        "url": "/api/v2/generation/8/"
+    },
+    "id": 265,
+    "is_main_series": true,
+    "name": "grim-neigh",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "name": "\u304f\u308d\u306e\u3044\u306a\u306a\u304d"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "name": "\ud751\uc758\uc6b8\uc74c"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "name": "\u6f06\u9ed1\u5636\u9cf4"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "Sombre Ruade"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "name": "Dunkles Wiehern"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "name": "Relincho Negro"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "name": "Nitrito Nero"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Grim Neigh"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "name": "\u304f\u308d\u306e\u3044\u306a\u306a\u304d"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "name": "\u6f06\u9ed1\u5636\u9e23"
+        }
+    ],
+    "pokemon": [
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "spectrier",
+                "url": "/api/v2/pokemon/897/"
+            },
+            "slot": 1
+        }
+    ]
+}

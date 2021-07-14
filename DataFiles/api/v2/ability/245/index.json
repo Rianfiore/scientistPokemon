@@ -1,0 +1,122 @@
+{
+    "effect_changes": [],
+    "effect_entries": [],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "The Pok\u00e9mon creates a sandstorm when it's hit by an attack.",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "version_group": {
+                "name": "sword-shield",
+                "url": "/api/v2/version-group/20/"
+            }
+        }
+    ],
+    "generation": {
+        "name": "generation-viii",
+        "url": "/api/v2/generation/8/"
+    },
+    "id": 245,
+    "is_main_series": true,
+    "name": "sand-spit",
+    "names": [
+        {
+            "language": {
+                "name": "ja-Hrkt",
+                "url": "/api/v2/language/1/"
+            },
+            "name": "\u3059\u306a\u306f\u304d"
+        },
+        {
+            "language": {
+                "name": "ko",
+                "url": "/api/v2/language/3/"
+            },
+            "name": "\ubaa8\ub798\ubfdc\uae30"
+        },
+        {
+            "language": {
+                "name": "zh-Hant",
+                "url": "/api/v2/language/4/"
+            },
+            "name": "\u5410\u6c99"
+        },
+        {
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "Expul\u2019Sable"
+        },
+        {
+            "language": {
+                "name": "de",
+                "url": "/api/v2/language/6/"
+            },
+            "name": "Sandspeier"
+        },
+        {
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            },
+            "name": "Expulsarena"
+        },
+        {
+            "language": {
+                "name": "it",
+                "url": "/api/v2/language/8/"
+            },
+            "name": "Sputasabbia"
+        },
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Sand Spit"
+        },
+        {
+            "language": {
+                "name": "ja",
+                "url": "/api/v2/language/11/"
+            },
+            "name": "\u3059\u306a\u306f\u304d"
+        },
+        {
+            "language": {
+                "name": "zh-Hans",
+                "url": "/api/v2/language/12/"
+            },
+            "name": "\u5410\u6c99"
+        }
+    ],
+    "pokemon": [
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "silicobra",
+                "url": "/api/v2/pokemon/843/"
+            },
+            "slot": 1
+        },
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "sandaconda",
+                "url": "/api/v2/pokemon/844/"
+            },
+            "slot": 1
+        },
+        {
+            "is_hidden": false,
+            "pokemon": {
+                "name": "sandaconda-gmax",
+                "url": "/api/v2/pokemon/10209/"
+            },
+            "slot": 1
+        }
+    ]
+}

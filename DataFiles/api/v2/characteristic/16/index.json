@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        {
+            "description": "Tr\u00e8s astucieux",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            }
+        },
+        {
+            "description": "Es muy astuto",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            }
+        },
+        {
+            "description": "Thoroughly cunning",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            }
+        }
+    ],
+    "gene_modulo": 2,
+    "highest_stat": {
+        "name": "special-attack",
+        "url": "/api/v2/stat/4/"
+    },
+    "id": 16,
+    "possible_values": [
+        2,
+        7,
+        12,
+        17,
+        22,
+        27
+    ]
+}

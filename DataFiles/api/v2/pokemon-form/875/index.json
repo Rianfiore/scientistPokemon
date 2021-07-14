@@ -1,0 +1,55 @@
+{
+    "form_name": "ice",
+    "form_names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Ice Face"
+        }
+    ],
+    "form_order": 1,
+    "id": 875,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "eiscue-ice",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Ice Face Eiscue"
+        }
+    ],
+    "order": 1191,
+    "pokemon": {
+        "name": "eiscue-ice",
+        "url": "/api/v2/pokemon/875/"
+    },
+    "sprites": {
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/875.png",
+        "back_female": null,
+        "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/875.png",
+        "back_shiny_female": null,
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png",
+        "front_female": null,
+        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/875.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ice",
+                "url": "/api/v2/type/15/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sword-shield",
+        "url": "/api/v2/version-group/20/"
+    }
+}

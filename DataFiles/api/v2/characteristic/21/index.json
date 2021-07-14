@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        {
+            "description": "Bonne endurance",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            }
+        },
+        {
+            "description": "Se caracteriza por ser muy resistente",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            }
+        },
+        {
+            "description": "Good endurance",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            }
+        }
+    ],
+    "gene_modulo": 3,
+    "highest_stat": {
+        "name": "defense",
+        "url": "/api/v2/stat/3/"
+    },
+    "id": 21,
+    "possible_values": [
+        3,
+        8,
+        13,
+        18,
+        23,
+        28
+    ]
+}

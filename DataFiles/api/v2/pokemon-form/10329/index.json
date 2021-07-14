@@ -1,0 +1,55 @@
+{
+    "form_name": "galar",
+    "form_names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Galarian Form"
+        }
+    ],
+    "form_order": 1,
+    "id": 10329,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "corsola-galar",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Galarian Corsola"
+        }
+    ],
+    "order": 1227,
+    "pokemon": {
+        "name": "corsola-galar",
+        "url": "/api/v2/pokemon/10170/"
+    },
+    "sprites": {
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10170.png",
+        "back_female": null,
+        "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10170.png",
+        "back_shiny_female": null,
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10170.png",
+        "front_female": null,
+        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10170.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ghost",
+                "url": "/api/v2/type/8/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sword-shield",
+        "url": "/api/v2/version-group/20/"
+    }
+}

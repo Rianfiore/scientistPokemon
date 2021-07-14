@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        {
+            "description": "Souvent dans la lune",
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            }
+        },
+        {
+            "description": "A menudo est\u00e1 en Babia",
+            "language": {
+                "name": "es",
+                "url": "/api/v2/language/7/"
+            }
+        },
+        {
+            "description": "Often lost in thought",
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            }
+        }
+    ],
+    "gene_modulo": 3,
+    "highest_stat": {
+        "name": "special-attack",
+        "url": "/api/v2/stat/4/"
+    },
+    "id": 22,
+    "possible_values": [
+        3,
+        8,
+        13,
+        18,
+        23,
+        28
+    ]
+}

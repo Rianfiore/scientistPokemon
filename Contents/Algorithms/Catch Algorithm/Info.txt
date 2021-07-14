@@ -1,0 +1,36 @@
+a = ((3 * HPMAX - 2 * HPCURRENT) * POKEMONRATE * BONUS BALL * BONUS STATUS) / 3 * HPMAX
+
+b = 65536 * (255/a) ^ -0.1875
+
+
+First Verify - Verify Critical Capture:
+
+c = a * m / 6
+
+POKEMONRATE / m
+
+>600 / 2.5
+451 - 600 / 2
+301-450 / 1.5
+151-300 / 1
+31-150 / 0.5
+<= 30 / 0
+
+n = Math.Random(0-255)
+
+if(c > n)
+
+YES: Critical Capture
+NO: Check for normal capture
+
+
+Second Verify - Normal Capture
+
+n = Math.Random(0-65535)
+
+if (b > c)
+
+YES: Check Passes
+NO: Failure
+
+reapeat 3x, if yes = Wild Pokemon Caught

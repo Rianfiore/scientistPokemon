@@ -1,0 +1,62 @@
+{
+    "form_name": "galar",
+    "form_names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Galarian Form"
+        }
+    ],
+    "form_order": 1,
+    "id": 10334,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "darmanitan-zen-galar",
+    "names": [
+        {
+            "language": {
+                "name": "en",
+                "url": "/api/v2/language/9/"
+            },
+            "name": "Galarian Zen Darmanitan"
+        }
+    ],
+    "order": 1232,
+    "pokemon": {
+        "name": "darmanitan-zen-galar",
+        "url": "/api/v2/pokemon/10175/"
+    },
+    "sprites": {
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10175.png",
+        "back_female": null,
+        "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10175.png",
+        "back_shiny_female": null,
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
+        "front_female": null,
+        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10175.png",
+        "front_shiny_female": null
+    },
+    "types": [
+        {
+            "slot": 1,
+            "type": {
+                "name": "ice",
+                "url": "/api/v2/type/15/"
+            }
+        },
+        {
+            "slot": 2,
+            "type": {
+                "name": "fire",
+                "url": "/api/v2/type/10/"
+            }
+        }
+    ],
+    "version_group": {
+        "name": "sword-shield",
+        "url": "/api/v2/version-group/20/"
+    }
+}
