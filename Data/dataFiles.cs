@@ -166,15 +166,8 @@ namespace ScientistPokemon.Data
                     Entities.EvolutionChain.MainEvolutionChain.createObject(items);
                     isCreated = true;
                 }
-                
-                if (isLoadedContents == true)
-                {
-                    Entities.EvolutionChain.MainEvolutionChain.linkAllContents(count);
-                }
-                else
-                {
-                    Entities.EvolutionChain.MainEvolutionChain.setAllItems(content,item,count, rootPath);
-                }
+                Entities.EvolutionChain.MainEvolutionChain.setAllItems(content,item,count, rootPath);
+
                 break;
 
                 case "evolution-trigger":

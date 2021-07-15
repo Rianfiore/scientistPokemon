@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 using System.Text.RegularExpressions;
-using System.Reflection;
 
 namespace ScientistPokemon.Entities.EvolutionChain
 {// Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
@@ -17,8 +16,63 @@ namespace ScientistPokemon.Entities.EvolutionChain
         public string Url { get; set; }
 
         public Entities.EvolutionTrigger.MainEvolutionTrigger trigger;
+
+        public Trigger(string Name, string Url)
+        {
+            this.Name = Name;
+            this.Url = Url;
+
+            try
+            {
+                string content = "evolution-trigger";
+                Url = Url.Remove(0,content.Length+8); 
+                Url = String.Concat(Regex.Split(Url,@"[^0-9]"));
+                StreamReader stream = new StreamReader($@"..\\ScientistPokemon\\DataFiles\\api\\v2\\{content}\\{Url}\\index.json");
+                string jsonString = stream.ReadToEnd();
+                this.trigger = JsonConvert.DeserializeObject<EvolutionTrigger.MainEvolutionTrigger>(jsonString);
+
+            }
+
+            catch
+            {
+
+            }
+        }
     }
 
+    public class Item
+    {
+        [JsonProperty("name")]
+        public string Name { get; set; }
+
+        [JsonProperty("url")]
+        public string Url { get; set; }
+
+        public Entities.Item.MainItem item;
+
+        public Item(string Name, string Url)
+        {
+            this.Name = Name;
+            this.Url = Url;
+
+            try
+            {
+                string content = "item";
+                Url = Url.Remove(0,content.Length+8); 
+                Url = String.Concat(Regex.Split(Url,@"[^0-9]"));
+                StreamReader stream = new StreamReader($@"..\\ScientistPokemon\\DataFiles\\api\\v2\\{content}\\{Url}\\index.json");
+                string jsonString = stream.ReadToEnd();
+                this.item = JsonConvert.DeserializeObject<Entities.Item.MainItem>(jsonString);
+
+            }
+
+            catch
+            {
+
+            }
+        }
+
+    }
     public class EvolutionDetail
     {
         [JsonProperty("gender")]
@@ -28,7 +82,7 @@ namespace ScientistPokemon.Entities.EvolutionChain
         public object HeldItem { get; set; }
 
         [JsonProperty("item")]
-        public object Item { get; set; }
+        public Item Item { get; set; }
 
         [JsonProperty("known_move")]
         public object KnownMove { get; set; }
@@ -49,7 +103,7 @@ namespace ScientistPokemon.Entities.EvolutionChain
         public object MinHappiness { get; set; }
 
         [JsonProperty("min_level")]
-        public int MinLevel { get; set; }
+        public int? MinLevel { get; set; }
 
         [JsonProperty("needs_overworld_rain")]
         public bool NeedsOverworldRain { get; set; }
@@ -79,31 +133,33 @@ namespace ScientistPokemon.Entities.EvolutionChain
     public class Species
     {
         [JsonProperty("name")]
-        public static string Name { get; set; }
+        public string Name { get; set; }
 
         [JsonProperty("url")]
-        public static string Url { get; set; }
+        public string Url { get; set; }
 
-        public static Entities.PokemonSpecies.MainPokemonSpecies species;
+        public PokemonSpecies.MainPokemonSpecies species;
 
-        public static void FindSpecies () {
-            
+        public Species(string Name, string Url)
+        {
+            this.Name = Name;
+            this.Url = Url;
+
             try
             {
-            string rootPath = "/api/v2/";
-            string speciesURL = Url;
-            speciesURL = speciesURL.Remove(0,rootPath.Length);
-            string speciesIndex = String.Join("",Regex.Split(speciesURL, @"[^0-9]"));
-            StreamReader stream2 = new StreamReader($@"..\\ScientistPokemon\\DataFiles\\api\\v2\\pokemon-species\\{speciesIndex}\\index.json");
-            string jsonString2 = stream2.ReadToEnd();
+                string content = "pokemon-species";
+                Url = Url.Remove(0,content.Length+8); 
+                Url = String.Concat(Regex.Split(Url,@"[^0-9]"));
+                StreamReader stream = new StreamReader($@"..\\ScientistPokemon\\DataFiles\\api\\v2\\{content}\\{Url}\\index.json");
+                string jsonString = stream.ReadToEnd();
+                this.species = JsonConvert.DeserializeObject<PokemonSpecies.MainPokemonSpecies>(jsonString);
 
-            species = JsonConvert.DeserializeObject<Entities.PokemonSpecies.MainPokemonSpecies>(jsonString2);
-            } 
-            
-            catch{
-                //return Entities.PokemonSpecies.MainPokemonSpecies.pokemonSpecies[0];
             }
 
+            catch
+            {
+
+            }
         }
     }
 
@@ -120,6 +176,7 @@ namespace ScientistPokemon.Entities.EvolutionChain
 
         [JsonProperty("species")]
         public Species Species { get; set; }
+
     }
 
     public class Chain
@@ -166,8 +223,6 @@ namespace ScientistPokemon.Entities.EvolutionChain
                 string jsonString = stream.ReadToEnd();
                 evolutionChain[count] = JsonConvert.DeserializeObject<MainEvolutionChain>(jsonString);
 
-                //Array.FindAll(evolutionChain[count].Chain.EvolvesTo[0]., p => p)
-
             }
             catch
             {
@@ -188,26 +243,5 @@ namespace ScientistPokemon.Entities.EvolutionChain
                 return JsonConvert.DeserializeObject<Entities.PokemonSpecies.MainPokemonSpecies>(jsonString2);
 
         } */
-
-        public static void linkAllContents(int count)
-        {
-            #region Species
-
-            //evolutionChain[count].Chain.Species.species = Array.Find(Entities.PokemonSpecies.MainPokemonSpecies.pokemonSpecies, p => p.Name == Species.Name);
-            //bool objectExisted;
-            //List<EvolvesTo> evolvesTo;
-        
-            /*for (int i = 0; i < evolutionChain[count].Chain.EvolvesTo.Count; i++)
-            {
-                evolutionChain[count].Chain.EvolvesTo[i].Species.species = Array.Find(Entities.PokemonSpecies.MainPokemonSpecies.pokemonSpecies, p => p.Name ==  evolutionChain[count].Chain.EvolvesTo[i].Species.Name);
-
-                for (int j = 0; j < evolutionChain[count].Chain.EvolvesTo[i].evolvesTo.Count; j++)
-                {
-                    evolutionChain[count].Chain.EvolvesTo[i].evolvesTo[j].= Array.Find(Entities.PokemonSpecies.MainPokemonSpecies.pokemonSpecies, p => p.Name ==  evolutionChain[count].Chain.EvolvesTo[i].Species.Name)
-                }
-            } */
-
-            #endregion
-        }
     }
 }
