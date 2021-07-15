@@ -12,8 +12,6 @@ namespace ScientistPokemon
             //InitMenu();
             //Console.Clear();
             StartGame();
-            //Console.WriteLine(Entities.EvolutionChain.MainEvolutionChain.evolutionChain[0]);
-            //Object.Kanto.PalletTown.LocationAreas.PalletTownArea.createPokemonEncounters();
            
         }
         
