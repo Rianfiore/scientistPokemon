@@ -1,6 +1,6 @@
 ﻿using System;
 using ScientistPokemon.GameProperties;
-using ScientistPokemon.Object.Kanto;
+using ScientistPokemon.WorldLocation;
 
 
 namespace ScientistPokemon
@@ -10,7 +10,7 @@ namespace ScientistPokemon
         static void Main(string[] args)
         {
             //InitMenu();
-            //Console.Clear();
+            Console.Clear();
             StartGame();
            
         }

@@ -97,3 +97,36 @@ C:\Users\luis_\Desktop\Pastas\Rian Fiore\ScientistPokemon\obj\Debug\net5.0\Scien
 C:\Users\luis_\Desktop\Pastas\Rian Fiore\ScientistPokemon\obj\Debug\net5.0\ref\ScientistPokemon.dll
 C:\Users\luis_\Desktop\Pastas\Rian Fiore\ScientistPokemon\obj\Debug\net5.0\ScientistPokemon.pdb
 C:\Users\luis_\Desktop\Pastas\Rian Fiore\ScientistPokemon\obj\Debug\net5.0\ScientistPokemon.genruntimeconfig.cache
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.exe
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.deps.json
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.runtimeconfig.json
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.runtimeconfig.dev.json
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ref\ScientistPokemon.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\ScientistPokemon.pdb
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\PokeApi-NJ.NET.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\RichardSzalay.MockHttp.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\xunit.abstractions.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\xunit.assert.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\xunit.core.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.csprojAssemblyReference.cache
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.AssemblyInfoInputs.cache
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.AssemblyInfo.cs
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.csproj.CoreCompileInputs.cache
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.csproj.CopyComplete
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ref\ScientistPokemon.dll
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.pdb
+D:\Projeto Aulas - DIO\Projeto Cientista\scientistPokemon\obj\Debug\net5.0\ScientistPokemon.genruntimeconfig.cache

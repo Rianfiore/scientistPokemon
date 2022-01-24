@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhOnBy9oYEsPyyh9Wju1Qe9fDXjFmaM2Xa8r8fRlveAR8uVg4Ijs6HJzCQpFgEffjtxIhREdIPMWtes9JfXh4A==",
+  "dgSpecHash": "RPC0mcQnX6t09BxuvneQI2qOcnyNR5AlMhYNgyqiSK8UgiRmD9/zubAAWDvywiBix+/1X3y9nEPm8QgSi7StNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rianf\\Desktop\\Projeto Aulas - DIO\\Projeto Cientista\\scientistPokemon\\ScientistPokemon.csproj",
+  "projectFilePath": "D:\\Projeto Aulas - DIO\\Projeto Cientista\\scientistPokemon\\ScientistPokemon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rianf\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\rianf\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",

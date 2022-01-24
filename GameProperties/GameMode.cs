@@ -1,5 +1,8 @@
 using System;
 using ScientistPokemon.World;
+using ScientistPokemon.Player;
+using ScientistPokemon.Menu;
+
 
 namespace ScientistPokemon.GameProperties
 {
@@ -12,8 +15,7 @@ namespace ScientistPokemon.GameProperties
             //Criar uma intro aqui
 
             Console.Clear();
-
-            Player.PlayerChar.newChar();
+            Player.configProprieties.newChar();
 
             Console.WriteLine("Te explicando a sua importância no mundo pokemon...");
             timer(1000);
@@ -24,5 +26,17 @@ namespace ScientistPokemon.GameProperties
             createNewWorld();
 
         }
+    }
+
+    public class InGame : World.WorldLocation
+    {
+        public static void enterNewGame(World.WorldLocation world, DateTime dateTime, PlayerChar player)
+        {
+            PlayerPosition.setInitialPlayerPosition(world.locationAreas[0]);
+
+            LocationAreaMenu.showMenu(player);
+
+
+        } 
     }
 }
